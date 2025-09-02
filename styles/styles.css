@@ -297,7 +297,10 @@ input.error, textarea.error {
         grid-template-columns: 1fr;
     }
     .testimonial {
-        padding: 1rem;
+        padding: 2rem;
+    }
+    .about {
+        padding: 2rem;
     }
     .contact-form {
         padding: 1rem;
